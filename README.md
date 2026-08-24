@@ -46,10 +46,5 @@ Evaluation & residual analysis (with focus on extreme-event performance)
 - **Seasonal decomposition** shows a clear annual cycle: higher wave heights in winter months, calmer conditions in summer, consistent with expected storm-season patterns for this region.
 - **Autocorrelation (ACF)** shows strong, slowly-decaying correlation extending past 48 hours — consistent with wave height's physical persistence (sea states build and decay gradually rather than resetting hour to hour). This justifies including lagged WVHT features in the regression stage.
 - No clear short-cycle (daily) pattern was observed in ACF at short lags, consistent with wave height being storm-driven rather than diurnally driven.
-
-## Modeling 
-
-## Repository structure
-
-
+ ## Results
 
